@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Nadine
  */
 public class KGV {
-    public static void (String args[]){
+    public static void main(String args[]){
          
         Scanner eingabe = new Scanner(System.in);
          
